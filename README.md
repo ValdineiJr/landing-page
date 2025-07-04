@@ -1,1 +1,16 @@
-# landing-page
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Minha Landing Page</title>
+  <style>
+    body { text-align: center; padding: 50px; font-family: Arial; }
+    h1 { color: #333; }
+    p { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>🚀 Bem-vindo à Minha Landing Page!</h1>
+  <p>Esta página foi criada usando o GitHub Pages.</p>
+</body>
+</html>
